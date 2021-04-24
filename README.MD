@@ -4,6 +4,10 @@
 
 ## Начало работы
 
+Создать config.properties и application.properties (использовать .default файлы как основу).
+
+Сделать необходимые настройки.
+
 Выполнить:
 ```bash
 mvn clean install
